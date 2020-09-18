@@ -173,3 +173,4 @@ ipython_config.py
 
 ./Crawling/Data/
 ./Crawling/chromedriver
+./Data/
