@@ -3,8 +3,8 @@ import time
 import random
 import os
 
-search_term = f'아이스크림'
-PATH_DIR = f'IceCream'
+search_term = f'순대'
+PATH_DIR = f'Soondae'
 
 if not os.path.exists(PATH_DIR):
     os.mkdir(f'./Data/{PATH_DIR}')
